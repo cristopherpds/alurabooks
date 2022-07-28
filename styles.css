@@ -1,10 +1,6 @@
 :root{
   --background-color:#EBECEE;
 }
-*{
-  margin: 0;
-  padding: 0;
-}
 body{
   background-color: var(--background-color);
 }
