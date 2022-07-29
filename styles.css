@@ -7,6 +7,7 @@
   --orange: #EB9800;
   --gradient-blue: linear-gradient(97.54deg, #002F52 35.49%,#326589 165.37%);
   --font: 'Poppins', sans-serif;
+  --blue: #002F52;
 }
 body{
   background-color: var(--background-color);
