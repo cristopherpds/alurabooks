@@ -13,6 +13,8 @@
   --blue: #002F52;
   --scondary-font:'Josefin Sans', sans-serif;
   --black: #000000;
+  --grey:#474646;
+  --ligth-grey: #858585;
 }
 body{
   background-color: var(--background-color);
