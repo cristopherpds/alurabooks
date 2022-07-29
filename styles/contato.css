@@ -48,3 +48,9 @@
   }
 
 }
+
+@media screen and (max-width:1728px){
+  .contato{
+    padding:3em 20vh;
+  }
+}
